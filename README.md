@@ -4,7 +4,7 @@ Not sorted! Inspired by the [Gitmoji Triangle](http://gitmoji.com/).
 
 - :trollface: `:trollface:`
 
-# science!
+# Science!
 
 - :pill: `:pill:` pharma code
 - :shell: `:shell:` writing shell code
@@ -24,9 +24,9 @@ Not sorted! Inspired by the [Gitmoji Triangle](http://gitmoji.com/).
 - :crystal_ball: `:crystal_ball:` predictive model
 - :alarm_clock: `:alarm_clock:` mechanistic model
 - :hammer: `:hammer:` abusing favourite technique
-- :saxophone: `:saxophone:` help from joris 
+- :saxophone: `:saxophone:` help from joris
 - :dart: `:dart:` probability/sampling
-- :no_mouth: `:no_mouth:` 
+- :no_mouth: `:no_mouth:`
 - :expressionless: `:expressionless:` annoyed
 - :vhs: `:vhs:` adding animation
 - :heavy_dollar_sign: `:heavy_dollar_sign:` consulting
@@ -56,7 +56,7 @@ Not sorted! Inspired by the [Gitmoji Triangle](http://gitmoji.com/).
 
 - :bug: `:bug:` fixing a bug
 - :pencil2: `:pencil2:` fixing typos
-- :bulb: `:bulb:` documenting source code 
+- :bulb: `:bulb:` documenting source code
 - :white_check_mark: `:white_check_mark:` adding tests
 - :rotating_light: `:rotating_light:` removing linter warnings
 - :sound: `:sound:` adding logs
