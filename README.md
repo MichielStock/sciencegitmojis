@@ -94,5 +94,5 @@ Not sorted! Inspired by the [Gitmoji Triangle](http://gitmoji.com/).
 # Contributors
 
 - [Bram](https://github.com/Beramos)
-- Daan
+- [Daan](https://github.com/DaanVanHauwermeiren)
 - [Michiel](https://github.com/MichielStock)
